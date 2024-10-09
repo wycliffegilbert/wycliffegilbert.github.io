@@ -1,1 +1,2 @@
-index.html # wycliffegilbert.github.io
+# wycliffegilbert.github.io
+index.html 
